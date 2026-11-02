@@ -1,10 +1,8 @@
-SPACECRAFT COMMUNICATIONS (2026) — GITHUB PATCH
+UPLOAD TO THE EXISTING GITHUB PAGES REPOSITORY
 
-1. Extract the ZIP.
-2. Upload assets/, projects/, pdf/, downloads/ and code/ to repository root, keeping paths.
-3. The homepage is NOT overwritten: paste the <article> snippet from HOMEPAGE_CARD_TO_ADD.html into the Engineering Projects grid of your existing index.html; replace the existing Communication project card if it is already listed.
-4. Commit to main.
-5. Confirm project page, 32+ original images and PDF/code buttons work.
+1. Extract the ZIP locally (do not upload the ZIP itself).
+2. Upload the projects, assets, pdf and downloads folders to repository ROOT, preserving exact paths.
+3. On the homepage, update existing Communications and Probability/PAM card links to match the two project pages; use HOMEPAGE_CARDS.html only as a reference. Never replace index.html with the snippet.
+4. Commit and test image zoom, PDF links, and source-code downloads.
 
-Images extracted from report; do not claim MATLAB code has been rerun.
-Original PDF contains student IDs. Review before publishing.
+No live GitHub files were edited. MATLAB/Simulink source files are unchanged and were not executed.
