@@ -1,8 +1,18 @@
-UPLOAD TO THE EXISTING GITHUB PAGES REPOSITORY
+DIGITAL PAM & MATCHED FILTER — PROFESSIONAL PORTFOLIO PATCH
 
-1. Extract the ZIP locally (do not upload the ZIP itself).
-2. Upload the projects, assets, pdf and downloads folders to repository ROOT, preserving exact paths.
-3. On the homepage, update existing Communications and Probability/PAM card links to match the two project pages; use HOMEPAGE_CARDS.html only as a reference. Never replace index.html with the snippet.
-4. Commit and test image zoom, PDF links, and source-code downloads.
+Upload to the ROOT of your existing GitHub Pages repository:
+  projects/
+  assets/
+  pdf/
+  code/
+  downloads/
 
-No live GitHub files were edited. MATLAB/Simulink source files are unchanged and were not executed.
+Edit existing index.html: replace the OLD Probability / PAM project card with the snippet in HOMEPAGE_CARD_TO_ADD.html. Do not replace the complete homepage.
+
+Important: PDF original includes a teammate's full name and student ID. Review before public release.
+
+Source files are unmodified. Simulink-vs-theory mismatch is described transparently on the page.
+
+Figures: 27 distinct report figures, 2 per PAM level (20), 2 comparisons, 5 Simulink; source PDF contains 3 additional cover graphics. The report doesn't contain 32 distinct result figures.
+
+3 original cover-page graphics are included under assets/images/pam-matched-filter/cover-graphic-*; they are not result plots.
