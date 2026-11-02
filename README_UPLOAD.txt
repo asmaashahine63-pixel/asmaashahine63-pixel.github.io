@@ -1,10 +1,15 @@
-AIRCRAFT PITCH CONTROL / 2025 — GITHUB PORTFOLIO PATCH
+AIRCRAFT PITCH CONTROL — HOMEPAGE READY UPDATE
 
-Upload folders: projects/, assets/, pdf/, code/, downloads/ to repository root.
-Edit your CURRENT root index.html. Replace existing Aircraft Pitch or Flight Dynamics & Autopilot card, or insert HOMEPAGE_CARD_TO_ADD.html within the existing project grid. Do NOT replace index.html with the card file.
+This package includes a complete updated index.html, with a correctly styled card in the existing Engineering Projects grid, plus the original project content.
 
-Main page: projects/aircraft-pitch-control.html
-PDF: pdf/Aircraft_Pitch_Control_SPC318_2025_Report.pdf
-Download: downloads/Aircraft_Pitch_Control_Simulink_Models.zip
+UPLOAD THESE TO GITHUB REPOSITORY ROOT (extract ZIP first):
+- index.html (replace existing homepage)
+- projects/
+- assets/
+- code/
+- downloads/
+- pdf/
 
-17 numbered figures + 2 supplementary root locus figures + 3 cover assets preserved. No standalone MATLAB .m scripts were provided. Simulation models not re-executed.
+The index.html is based on the most recent locally available homepage, which includes the detailed PAM project card. It cannot be guaranteed to capture changes made to your live repository after that version. Download your existing index.html before replacing it. If you have newer live edits, insert the contents of HOMEPAGE_CARD_TO_ADD.html inside the existing <div class="grid"> in <section id="projects"> instead.
+
+After committing, check GitHub Pages deployment and visit /#projects and /projects/aircraft-pitch-control.html.
