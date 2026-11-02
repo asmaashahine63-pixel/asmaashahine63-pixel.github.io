@@ -1,0 +1,1 @@
+Upload the folders projects, assets and downloads to your GitHub repository ROOT, preserving paths. Existing assets/style.css and other projects are unchanged. To display the card on the homepage, insert the article in HOMEPAGE_CARD_TO_ADD.html into the projects grid of index.html. Do not upload README or snippet as a website page.
