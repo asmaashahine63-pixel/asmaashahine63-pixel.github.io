@@ -1,0 +1,1 @@
+Upload the projects, assets, pdf folders and index.html to repository ROOT. index.html replaces the current homepage. This patch does not contain the CAD/ANSYS native project files because none were supplied. Keep your other repository files.
