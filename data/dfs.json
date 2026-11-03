@@ -1,0 +1,1 @@
+{"algorithm": "DFS", "title": "Search Complete", "message": "DFS completed successfully!\n\nPath length: 6 steps\nExplored states: 7\nPath: [0, 4, 8, 9, 13, 14, 15]\nActions: Down -> Down -> Right -> Down -> Right -> Right", "path": [0, 4, 8, 9, 13, 14, 15], "explored": [0, 4, 8, 9, 13, 14, 15], "actions": ["Down", "Down", "Right", "Down", "Right", "Right"]}

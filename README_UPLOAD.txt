@@ -1,18 +1,5 @@
-DIGITAL PAM & MATCHED FILTER — PROFESSIONAL PORTFOLIO PATCH
+FrozenLake project – seven original GUI video recordings.
 
-Upload to the ROOT of your existing GitHub Pages repository:
-  projects/
-  assets/
-  pdf/
-  code/
-  downloads/
-
-Edit existing index.html: replace the OLD Probability / PAM project card with the snippet in HOMEPAGE_CARD_TO_ADD.html. Do not replace the complete homepage.
-
-Important: PDF original includes a teammate's full name and student ID. Review before public release.
-
-Source files are unmodified. Simulink-vs-theory mismatch is described transparently on the page.
-
-Figures: 27 distinct report figures, 2 per PAM level (20), 2 comparisons, 5 Simulink; source PDF contains 3 additional cover graphics. The report doesn't contain 32 distinct result figures.
-
-3 original cover-page graphics are included under assets/images/pam-matched-filter/cover-graphic-*; they are not result plots.
+Upload the projects/, assets/, pdf/, code/, downloads/, and data/ folders to the GitHub repository root; preserve directories.
+For the homepage, update your CURRENT root index.html to insert HOMEPAGE_CARD_TO_ADD.html inside the Engineering Projects card grid. Do NOT replace a newer homepage with a stale copy. The included index.html is based on the latest locally available copy and may differ from GitHub.
+No other project files need to be removed.

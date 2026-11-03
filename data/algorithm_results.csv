@@ -1,0 +1,8 @@
+algorithm,success,path_steps,total_cost,explored_visits,path,actions
+BFS,True,6,6,12,0 -> 4 -> 8 -> 9 -> 13 -> 14 -> 15,Down -> Down -> Right -> Down -> Right -> Right
+UCS,True,6,6,12,0 -> 4 -> 8 -> 9 -> 13 -> 14 -> 15,Down -> Down -> Right -> Down -> Right -> Right
+DFS,True,6,6,7,0 -> 4 -> 8 -> 9 -> 13 -> 14 -> 15,Down -> Down -> Right -> Down -> Right -> Right
+DLS,True,6,6,7,0 -> 4 -> 8 -> 9 -> 13 -> 14 -> 15,Down -> Down -> Right -> Down -> Right -> Right
+IDS,True,6,6,51,0 -> 4 -> 8 -> 9 -> 13 -> 14 -> 15,Down -> Down -> Right -> Down -> Right -> Right
+GBFS,True,6,6,7,0 -> 4 -> 8 -> 9 -> 13 -> 14 -> 15,Down -> Down -> Right -> Down -> Right -> Right
+A*,True,6,6,12,0 -> 4 -> 8 -> 9 -> 13 -> 14 -> 15,Down -> Down -> Right -> Down -> Right -> Right
