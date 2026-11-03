@@ -1,1 +1,16 @@
-Upload the projects, assets, pdf folders and index.html to repository ROOT. index.html replaces the current homepage. This patch does not contain the CAD/ANSYS native project files because none were supplied. Keep your other repository files.
+ADVANCED CONTROL SYSTEMS - GITHUB HOMEPAGE FIX
+
+This package includes a complete replacement index.html based on the previously approved clean 12-project homepage.
+It now has 13 project cards, including the Advanced Control active suspension page.
+The 10 previously removed cards are NOT restored; 8 certificates are preserved.
+
+1. Extract this ZIP.
+2. Open github.com/asmaashahine63-pixel/asmaashahine63-pixel.github.io
+3. Choose Add file > Upload files at the repository root.
+4. Drag index.html plus the assets, projects, code, pdf, downloads directories from the extracted package.
+5. Confirm index.html is at the ROOT, and projects/advanced-control-active-suspension.html is listed.
+6. Commit directly to main.
+7. Open the repository index.html and search for: 2026-11-03-advanced-control-added-clean-13
+8. Confirm Actions > pages build and deployment succeeded and refresh the site with Ctrl+Shift+R.
+
+Note: this index.html is based on the last approved clean local version, not necessarily newer GitHub edits. Compare if you made new live edits since then.
