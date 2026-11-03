@@ -1,0 +1,128 @@
+[
+  {
+    "group": "matlab",
+    "number": 1,
+    "title": "Airfoil geometry",
+    "file": "../assets/images/joukowski-airfoil/matlab-01.png",
+    "page": 3,
+    "pdf": "AeroProj_Asmaa_Sapry_202201338.pdf",
+    "sha": "211e124200817bb047e7b0ea5f9de950e338ac9195494c877dfa71195551b27e"
+  },
+  {
+    "group": "matlab",
+    "number": 2,
+    "title": "Streamline pattern at 6\u00b0",
+    "file": "../assets/images/joukowski-airfoil/matlab-02.png",
+    "page": 4,
+    "pdf": "AeroProj_Asmaa_Sapry_202201338.pdf",
+    "sha": "9fd575f4881d6aadb590009fa2da9d90bb6b6cff5d272ea95be60a08411e5bb3"
+  },
+  {
+    "group": "matlab",
+    "number": 3,
+    "title": "Velocity magnitude at 6\u00b0",
+    "file": "../assets/images/joukowski-airfoil/matlab-03.png",
+    "page": 4,
+    "pdf": "AeroProj_Asmaa_Sapry_202201338.pdf",
+    "sha": "d52fceada6ef341ed1f995540d26b3fa42937af6d360b9ff97120215fc1baccc"
+  },
+  {
+    "group": "matlab",
+    "number": 4,
+    "title": "Surface pressure coefficient at 6\u00b0",
+    "file": "../assets/images/joukowski-airfoil/matlab-04.png",
+    "page": 5,
+    "pdf": "AeroProj_Asmaa_Sapry_202201338.pdf",
+    "sha": "59c663f757d2e15d78ae6a08ccb833f0f53a9b8709343af1d9127e6d2743cc00"
+  },
+  {
+    "group": "matlab",
+    "number": 5,
+    "title": "Lift coefficient versus angle of attack",
+    "file": "../assets/images/joukowski-airfoil/matlab-05.png",
+    "page": 5,
+    "pdf": "AeroProj_Asmaa_Sapry_202201338.pdf",
+    "sha": "fe14dc581aa081794b3fc0a831a554c0bb2ee18bbb873cfee24b5e14f93788a1"
+  },
+  {
+    "group": "matlab",
+    "number": 6,
+    "title": "Quarter-chord moment coefficient versus angle of attack",
+    "file": "../assets/images/joukowski-airfoil/matlab-06.png",
+    "page": 6,
+    "pdf": "AeroProj_Asmaa_Sapry_202201338.pdf",
+    "sha": "ca8efffce014e92e70ef46b5860001465ebba6e84b624378440c878ba6929576"
+  },
+  {
+    "group": "cfd",
+    "number": 1,
+    "title": "ANSYS static-pressure contours",
+    "file": "../assets/images/joukowski-airfoil/cfd-01.png",
+    "page": 1,
+    "pdf": "Bouns aero.pdf",
+    "sha": "56c2191c179c479dc7d461a54ffc6087dbcdb8ba8dfecad31d56b047f30e1b05"
+  },
+  {
+    "group": "cfd",
+    "number": 2,
+    "title": "ANSYS velocity-magnitude contours",
+    "file": "../assets/images/joukowski-airfoil/cfd-02.png",
+    "page": 1,
+    "pdf": "Bouns aero.pdf",
+    "sha": "9de0446c4e597e8b9300a254af453130e742f2930c2c3ec1c3d916f9ae8e1f99"
+  },
+  {
+    "group": "cfd",
+    "number": 3,
+    "title": "ANSYS velocity-colored pathlines",
+    "file": "../assets/images/joukowski-airfoil/cfd-03.png",
+    "page": 2,
+    "pdf": "Bouns aero.pdf",
+    "sha": "ecd9f65f0d3e0432d26f2b76e4ca315fe29aa6ab8bec5789a2ad9bf47824906a"
+  },
+  {
+    "group": "cfd",
+    "number": 4,
+    "title": "ANSYS pressure/pathline visualization",
+    "file": "../assets/images/joukowski-airfoil/cfd-04.png",
+    "page": 2,
+    "pdf": "Bouns aero.pdf",
+    "sha": "5077540a13866263022cc753b2c1f8067ec5ffdbf2f24e8112b0d4b1a5917ca4"
+  },
+  {
+    "group": "cfd",
+    "number": 5,
+    "title": "Near-airfoil mesh",
+    "file": "../assets/images/joukowski-airfoil/cfd-05.png",
+    "page": 3,
+    "pdf": "Bouns aero.pdf",
+    "sha": "862a6507782fe49b265df72b17f3730e6e45a93597b3f21732d35cd1a3e4df8a"
+  },
+  {
+    "group": "cfd",
+    "number": 6,
+    "title": "Full computational-domain mesh",
+    "file": "../assets/images/joukowski-airfoil/cfd-06.png",
+    "page": 3,
+    "pdf": "Bouns aero.pdf",
+    "sha": "34129bf67485c0891b66d121730d97c63179771cce26ff86b1c43ef8f6ba2598"
+  },
+  {
+    "group": "extra",
+    "number": 1,
+    "title": "Alternate pressure-contour export",
+    "file": "../assets/images/joukowski-airfoil/extra-01.png",
+    "page": 1,
+    "pdf": "Report(2).pdf",
+    "sha": "56c2191c179c479dc7d461a54ffc6087dbcdb8ba8dfecad31d56b047f30e1b05"
+  },
+  {
+    "group": "extra",
+    "number": 2,
+    "title": "Alternate velocity-contour export",
+    "file": "../assets/images/joukowski-airfoil/extra-02.png",
+    "page": 1,
+    "pdf": "Report(2).pdf",
+    "sha": "9de0446c4e597e8b9300a254af453130e742f2930c2c3ec1c3d916f9ae8e1f99"
+  }
+]
