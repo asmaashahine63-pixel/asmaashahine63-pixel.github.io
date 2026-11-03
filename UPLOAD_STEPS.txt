@@ -1,0 +1,6 @@
+1. Open https://github.com/asmaashahine63-pixel/asmaashahine63-pixel.github.io/edit/main/index.html
+2. Open this index.html in Notepad and copy ALL text.
+3. In GitHub editor, focus code, Ctrl+A then Ctrl+V.
+4. Commit changes directly to main.
+5. Open https://github.com/asmaashahine63-pixel/asmaashahine63-pixel.github.io/blob/main/index.html and search ADVANCED-CONTROL-HOMEPAGE-FIX-2026-11-03.
+6. Check Actions Pages deployment and hard-refresh homepage.
