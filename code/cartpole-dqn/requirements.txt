@@ -1,0 +1,5 @@
+gymnasium[classic-control]==0.29.1
+torch
+numpy
+matplotlib
+opencv-python
