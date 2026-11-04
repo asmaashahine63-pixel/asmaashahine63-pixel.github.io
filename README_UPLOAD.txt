@@ -1,8 +1,15 @@
-STUDENT PERFORMANCE MACHINE LEARNING (2025)
+WIND TURBINE GEARBOX — REVISED PORTFOLIO (2025)
 
-Upload assets/, projects/, pdf/, data/, code/ preserving directory paths.
-Current-root index.html is a convenience snapshot derived from the locally available homepage; if you changed the live home, do NOT overwrite it. Instead paste HOMEPAGE_CARD_TO_ADD.html inside your existing #projects grid.
+This package removes the decorative university logo and redundant raw appendix-image section.
+Engineering visuals: six gear verification screenshots, three original shaft hand-plots, three Inventor shaft reports, six bearing screenshots, one detailed CAD drawing, 20 unique embedded engineering reference images, and the original MP4 exploded-view video.
 
-Expected details URL: https://asmaashahine63-pixel.github.io/projects/student-performance-machine-learning.html
+UPLOAD
+1. Extract the ZIP. Do not upload the ZIP itself.
+2. Upload projects/, assets/, and pdf/ into the EXISTING repository root, keeping paths.
+3. REPLACE projects/wind-turbine-gearbox.html rather than add a second page.
+4. You do not need to change index.html if its gearbox card already links to projects/wind-turbine-gearbox.html.
+5. If the card does not exist, merge HOMEPAGE_CARD_TO_ADD.html into the projects grid in your CURRENT index.html. Do not overwrite the current homepage.
+6. Commit and check Pages deployment. Hard-refresh browser after completion.
 
-Source notes: 86 screenshots in RAR; second RAR is byte-identical by archive listing/CRC. 30 notebook PDF figures. No original executable .ipynb was provided; text transcription is non-runnable. Results are reported from the original PDF rather than independently rerun. The project date is December 2025 on its report.
+The individual PDFs remain original user-provided source documents.
+Native Autodesk Inventor CAD archives were excluded due to browser upload constraints.
