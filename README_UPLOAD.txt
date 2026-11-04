@@ -1,21 +1,8 @@
-NUMERICAL ANALYSIS — WALL HEAT TRANSFER | GITHUB UPLOAD
+STUDENT PERFORMANCE MACHINE LEARNING (2025)
 
-Files:
- index.html (optional homepage replacement based on the latest locally available Howe Truss homepage)
- HOMEPAGE_CARD_TO_ADD.html (recommended: insert this card into your CURRENT live Engineering Projects grid)
- projects/numerical-wall-heat-transfer.html
- assets/numerical-wall.css
- assets/images/numerical-wall/*.png
- pdf/Numerical_Project_Wall_Heat_Transfer.pdf
- code/Numerical.py
- data/temperature_field.csv, horizontal_profiles.csv, temperature_field.npy
+Upload assets/, projects/, pdf/, data/, code/ preserving directory paths.
+Current-root index.html is a convenience snapshot derived from the locally available homepage; if you changed the live home, do NOT overwrite it. Instead paste HOMEPAGE_CARD_TO_ADD.html inside your existing #projects grid.
 
-GitHub steps:
-1. In your repository root, upload the folders projects, assets, pdf, code and data, keeping subfolders.
-2. Update your CURRENT live index.html with HOMEPAGE_CARD_TO_ADD.html inside the #projects .grid. Avoid reintroducing removed project cards.
-3. If the supplied index.html matches your live homepage, you may replace it instead.
-4. Commit directly to main, wait for Pages deployment and refresh your portfolio.
-5. Visit /projects/numerical-wall-heat-transfer.html.
+Expected details URL: https://asmaashahine63-pixel.github.io/projects/student-performance-machine-learning.html
 
-Date was deliberately not invented: the provided report does not state a project year.
-Technical note: original code comments call top/bottom edges Neumann even though the assigned temperatures are Dirichlet.
+Source notes: 86 screenshots in RAR; second RAR is byte-identical by archive listing/CRC. 30 notebook PDF figures. No original executable .ipynb was provided; text transcription is non-runnable. Results are reported from the original PDF rather than independently rerun. The project date is December 2025 on its report.
