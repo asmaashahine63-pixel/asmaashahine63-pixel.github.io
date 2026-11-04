@@ -1,6 +1,11 @@
-1. Open https://github.com/asmaashahine63-pixel/asmaashahine63-pixel.github.io/edit/main/index.html
-2. Open this index.html in Notepad and copy ALL text.
-3. In GitHub editor, focus code, Ctrl+A then Ctrl+V.
-4. Commit changes directly to main.
-5. Open https://github.com/asmaashahine63-pixel/asmaashahine63-pixel.github.io/blob/main/index.html and search ADVANCED-CONTROL-HOMEPAGE-FIX-2026-11-03.
-6. Check Actions Pages deployment and hard-refresh homepage.
+LIGHT WEBSITE PACKAGE — 55 kW Wind Turbine Gearbox
+
+1. Extract this ZIP on your computer. DO NOT upload ZIP as a single website asset.
+2. Open your GitHub Pages repository at root.
+3. Upload the projects/, assets/, and pdf/ folders while preserving their subfolders.
+4. Commit directly to main.
+5. In the LIVE root index.html replace the existing gearbox project card with the content of HOMEPAGE_CARD_TO_ADD.html. Avoid duplicate cards.
+6. Verify GitHub Actions -> Pages deployment and hard refresh the homepage.
+
+This package intentionally excludes large native CAD ZIP files and the original WMV. The MP4 is included.
+
