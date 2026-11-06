@@ -1,12 +1,15 @@
-ROTORTHON 2024 PORTFOLIO UPDATE
+SUPSERSONIC RAMJET ENGINE — GITHUB PORTFOLIO UPDATE
 
-Upload these extracted paths to the ROOT of your GitHub Pages repository:
-  index.html  (homepage with the existing ROTORTHON card updated, all 19 cards retained)
-  projects/rotorthon.html
-  pdf/Rotorthon_2024_The_Avalanche_Presentation.pdf
-  source/Rotorthon_2024_Presentation_Lightweight.pptx
-  assets/images/rotorthon/slide-01.jpg through slide-19.jpg
+This ZIP contains exactly one new ramjet project webpage, source MATLAB scripts, original report PDF, individual source figures, supporting plots and screenshots, and a modified homepage.
 
-Do NOT upload the outer ZIP directly. Keep folder paths exactly. The large original 388 MB PowerPoint was NOT included. The linked 4.7 MB editable PPTX retains the slide content but excludes the two very large embedded MP4 assets. The PDF includes all 19 rendered slides.
+RECOMMENDED (avoid overwriting any newer homepage):
+1. Extract the ZIP locally.
+2. Upload projects/, assets/, code/, pdf/, data/ to your repository ROOT, keeping paths. Do not upload the ZIP itself.
+3. Open your CURRENT GitHub index.html, locate the existing Engineering Projects grid, and paste HOMEPAGE_CARD_TO_ADD.html into the grid. Commit to main.
+4. Verify GitHub Pages deployed. Check the homepage for Supersonic Ramjet Engine and click its card.
 
-The homepage file is based on the latest locally prepared 19-card index, NOT a live uncommitted edit. If you have updated the homepage since this file, apply HOMEPAGE_CARD_TO_ADD.html to your current index.html instead of replacing the entire index.
+ALTERNATIVE: The included index.html already has the ramjet project plus the 19-card locally prepared homepage (gearbox + ROTORTHON retained). Use it ONLY if it matches your current GitHub homepage; otherwise use the card-only method.
+
+The full original PDF, 6 original MATLAB .m scripts and original Results.zip are intact. Newly drawn station plots are labeled derived visualizations; no fresh MATLAB calculation was claimed.
+
+Course Fall 2025, project report dated January 21, 2026.
