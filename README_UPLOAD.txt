@@ -1,15 +1,12 @@
-WIND TURBINE GEARBOX — REVISED PORTFOLIO (2025)
+ROTORTHON 2024 PORTFOLIO UPDATE
 
-This package removes the decorative university logo and redundant raw appendix-image section.
-Engineering visuals: six gear verification screenshots, three original shaft hand-plots, three Inventor shaft reports, six bearing screenshots, one detailed CAD drawing, 20 unique embedded engineering reference images, and the original MP4 exploded-view video.
+Upload these extracted paths to the ROOT of your GitHub Pages repository:
+  index.html  (homepage with the existing ROTORTHON card updated, all 19 cards retained)
+  projects/rotorthon.html
+  pdf/Rotorthon_2024_The_Avalanche_Presentation.pdf
+  source/Rotorthon_2024_Presentation_Lightweight.pptx
+  assets/images/rotorthon/slide-01.jpg through slide-19.jpg
 
-UPLOAD
-1. Extract the ZIP. Do not upload the ZIP itself.
-2. Upload projects/, assets/, and pdf/ into the EXISTING repository root, keeping paths.
-3. REPLACE projects/wind-turbine-gearbox.html rather than add a second page.
-4. You do not need to change index.html if its gearbox card already links to projects/wind-turbine-gearbox.html.
-5. If the card does not exist, merge HOMEPAGE_CARD_TO_ADD.html into the projects grid in your CURRENT index.html. Do not overwrite the current homepage.
-6. Commit and check Pages deployment. Hard-refresh browser after completion.
+Do NOT upload the outer ZIP directly. Keep folder paths exactly. The large original 388 MB PowerPoint was NOT included. The linked 4.7 MB editable PPTX retains the slide content but excludes the two very large embedded MP4 assets. The PDF includes all 19 rendered slides.
 
-The individual PDFs remain original user-provided source documents.
-Native Autodesk Inventor CAD archives were excluded due to browser upload constraints.
+The homepage file is based on the latest locally prepared 19-card index, NOT a live uncommitted edit. If you have updated the homepage since this file, apply HOMEPAGE_CARD_TO_ADD.html to your current index.html instead of replacing the entire index.
